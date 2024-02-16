@@ -17,7 +17,7 @@ class SobreMim extends Desenvolvedor {
 
 class Skills extends Desenvolvedor {
   linguagens = ["HTML, CSS, C++, Python, JavaScript, TypeScript, PHP"];
-  frameworks = ["Flet, Flask, React, Nuxt, Node, Next"];
+  frameworks = ["Django, Flet, Flask, React, Nuxt, Node, Next"];
 }
 ```
 
