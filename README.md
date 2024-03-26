@@ -6,18 +6,19 @@
 ```js
 
 
-import Desenvolvedor from "Codeneiz";
+import Developer from "amaurygomes";
 
-class SobreMim extends Desenvolvedor {
+class SobreMim extends Developer {
   nome = "Amaury Gomes Ibanêz";
   area = "Estudante";
   faculdade = "Unifael";
+  curso = ["Análise e Desenvolvimento de Sistemas, Digital Security"];
   local = "Maracajú-MS";
 }
 
-class Skills extends Desenvolvedor {
-  linguagens = ["HTML, CSS, C++, Python, JavaScript, TypeScript, PHP"];
-  frameworks = ["Django, Flet, Flask, React, Nuxt, Node, Next"];
+class Skills extends Developer {
+  linguagens = ["HTML, CSS, C++, Python, JavaScript, TypeScript"];
+  frameworks = ["Django, Flask, React, Vue, Node, Next, FastApi"];
 }
 ```
 
