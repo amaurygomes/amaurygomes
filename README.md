@@ -17,9 +17,9 @@ class SobreMim extends Developer {
 }
 
 class Description extends Developer {
-  bio = "Desenvolvedor Full Stack com experiência em diversas tecnologias de front-end e back-end. Focado em construir soluções web eficientes e seguras, além de contribuir para a comunidade de desenvolvimento de software.";
+  bio = "Desenvolvedor Full Stack com experiência em diversas tecnologias de front-end e back-end.
   interesses = ["Desenvolvimento Web", "Segurança Digital", "Automação", "Open Source"];
-  projetos = ["Criação de aplicações web responsivas", "Implementação de sistemas seguros", "Colaboração em projetos open source"];
+  projetos = ["Criação de aplicações web responsivas", "Implementação de sistemas seguros"];
 }
 ```
 
